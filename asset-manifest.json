@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bill-generator-using-ReactJS/static/css/main.36bbfe14.css",
+    "main.js": "/bill-generator-using-ReactJS/static/js/main.78493510.js",
+    "static/js/498.0afac0b9.chunk.js": "/bill-generator-using-ReactJS/static/js/498.0afac0b9.chunk.js",
+    "static/js/703.ab30208d.chunk.js": "/bill-generator-using-ReactJS/static/js/703.ab30208d.chunk.js",
+    "static/js/598.07ffb6c6.chunk.js": "/bill-generator-using-ReactJS/static/js/598.07ffb6c6.chunk.js",
+    "index.html": "/bill-generator-using-ReactJS/index.html",
+    "main.36bbfe14.css.map": "/bill-generator-using-ReactJS/static/css/main.36bbfe14.css.map",
+    "main.78493510.js.map": "/bill-generator-using-ReactJS/static/js/main.78493510.js.map",
+    "498.0afac0b9.chunk.js.map": "/bill-generator-using-ReactJS/static/js/498.0afac0b9.chunk.js.map",
+    "703.ab30208d.chunk.js.map": "/bill-generator-using-ReactJS/static/js/703.ab30208d.chunk.js.map",
+    "598.07ffb6c6.chunk.js.map": "/bill-generator-using-ReactJS/static/js/598.07ffb6c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36bbfe14.css",
+    "static/js/main.78493510.js"
+  ]
+}
