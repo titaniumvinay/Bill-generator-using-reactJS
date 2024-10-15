@@ -1,0 +1,82 @@
+/* Ensure full height for centering and remove margins */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* Center the login page content using flexbox */
+.login-page {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center items vertically */
+  align-items: center; /* Center items horizontally */
+  height: 100vh; /* Full viewport height */
+  background-color: white; /* Page background */
+}
+
+/* Container for the login box */
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  padding: 40px;
+  border-radius: 30px;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.2);
+  background-color: gray; /* Background color for the login box */
+  text-align: center;
+}
+
+/* Styling for the heading in the login box */
+h2 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  color: white; /* Text color for heading */
+}
+
+/* Welcome message styling */
+.welcome-message {
+  text-align: center;
+  margin-bottom: 30px; /* Space between welcome message and login box */
+}
+
+.welcome-message h1 {
+  font-size: 26px;
+  color: #333;
+  margin: 0; /* Remove margin to align better with the login box */
+}
+
+/* Input styling for email and password fields */
+.login-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box; /* Ensures padding is included in width */
+}
+
+/* Error message styling */
+.login-error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+/* Button styling */
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: wheat;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the login button */
+.login-button:hover {
+  background-color: #0056b3;
+}
+
