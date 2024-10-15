@@ -2,7 +2,10 @@
 ### Instalation
 
 ```
-git clone https://github.com/hourmeng12/invoice-generator
+React app for simple invoice generation
+
+use the following commands to run the app after extracting it
+
 
 npm install
 
